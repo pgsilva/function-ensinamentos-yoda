@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ask-sdk-core": "^2.12.1"
+  }
+}
