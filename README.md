@@ -3,7 +3,6 @@
 ![node](https://raw.githubusercontent.com/aleen42/badges/466339a5007ec1c25054ffbbac64a86fece53e26/src/node.svg)
 ![npm](https://raw.githubusercontent.com/aleen42/badges/466339a5007ec1c25054ffbbac64a86fece53e26/src/npm.svg) 
 ![javascript](https://raw.githubusercontent.com/aleen42/badges/466339a5007ec1c25054ffbbac64a86fece53e26/src/javascript.svg) 
-[![Kotlin](https://img.shields.io/badge/kotlin-1.4.32-blue.svg?logo=kotlin&style=flat-square)](http://kotlinlang.org)
 [![Miles Morales](https://img.shields.io/badge/dev-miles%20morales-blueviolet?style=flat-square)](https://github.com/pgsilva)
 [![Git Hub Stars](https://img.shields.io/github/stars/pgsilva?logo=github&style=flat-square)](https://github.com/pgsilva/function-ensinamentos-yoda)
 
